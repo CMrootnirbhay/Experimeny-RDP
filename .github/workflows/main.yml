@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  EXP:
+  EXP-WOrked:
     runs-on: windows-latest
     timeout-minutes: 3600
 
